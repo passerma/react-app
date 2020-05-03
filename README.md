@@ -6,4 +6,8 @@
 
 ## react-app-ts
 
+#### 这是 JavaScript 环境的 react 脚手架
+
+## react-app-ts
+
 #### 这是 typescript 环境的 react 脚手架
